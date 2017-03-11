@@ -8,3 +8,10 @@ add buttons
 
 add mq connections
 add db connection
+
+Waiting for content integration code… meanwhile…
+
+add links to content pages
+add some local html files
+	help.html
+	faq.html
