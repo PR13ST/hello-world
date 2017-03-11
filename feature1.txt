@@ -12,3 +12,10 @@ add db connection
 ###NEW CODE FOR FEATURE1 CONTENT STUFF
 
 add content deployment system links
+
+add links to content pages
+add some local html files
+	help.html
+	faq.html
+	username.html
+	password.html
