@@ -1,1 +1,5 @@
-New feature1 code to be added here
+###NEW CODE FOR FEATURE1 UI
+
+add window
+add frames
+add buttons
