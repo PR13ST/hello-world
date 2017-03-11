@@ -17,4 +17,5 @@ add links to content pages
 add some local html files
 	help.html
 	faq.html
-
+	username.html
+	password.html
