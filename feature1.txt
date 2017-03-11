@@ -3,3 +3,8 @@
 add window
 add frames
 add buttons
+
+###NEW CODE FOR FEATURE1 INTEGRATION
+
+add mq connections
+add db connection
