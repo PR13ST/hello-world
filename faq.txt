@@ -7,3 +7,11 @@ neon
 gen
 eneg
 new
+Eb
+
+Ew
+Bent
+Ne
+Ne
+Net
+NEWTEXT!!!
