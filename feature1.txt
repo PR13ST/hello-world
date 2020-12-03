@@ -19,3 +19,5 @@ add some local html files
 	faq.html
 	username.html
 	password.html
+
+Add help text
